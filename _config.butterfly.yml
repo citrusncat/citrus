@@ -11,7 +11,7 @@
 
 nav:
   # Navigation bar logo image
-  logo: img\butterfly-icon1.jpg
+  logo: /img/butterfly-icon1.jpg
   display_title: true
   # Whether to fix navigation bar
   fixed: false
